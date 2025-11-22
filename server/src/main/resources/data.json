@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "Qual é a capital da Itália?",
+    "options": {
+      "A": "Veneza",
+      "B": "Milão",
+      "C": "Roma",
+      "D": "Nápoles",
+      "E": "Florença"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 2,
+    "question": "Quem desenvolveu a teoria da relatividade?",
+    "options": {
+      "A": "Isaac Newton",
+      "B": "Galileu Galilei",
+      "C": "Niels Bohr",
+      "D": "Albert Einstein",
+      "E": "Marie Curie"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 3,
+    "question": "Quantos graus tem um ângulo reto?",
+    "options": {
+      "A": "30°",
+      "B": "45°",
+      "C": "60°",
+      "D": "90°",
+      "E": "180°"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4,
+    "question": "Qual é o planeta mais próximo do Sol?",
+    "options": {
+      "A": "Vênus",
+      "B": "Terra",
+      "C": "Mercúrio",
+      "D": "Marte",
+      "E": "Júpiter"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 5,
+    "question": "Qual desses animais é um réptil?",
+    "options": {
+      "A": "Sapo",
+      "B": "Jacaré",
+      "C": "Golfinho",
+      "D": "Pinguim",
+      "E": "Foca"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 6,
+    "question": "Quantos lados tem um pentágono?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "E": "8"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 7,
+    "question": "Qual a fórmula da água?",
+    "options": {
+      "A": "CO2",
+      "B": "H2O",
+      "C": "NaCl",
+      "D": "O2",
+      "E": "CH4"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 8,
+    "question": "Quem pintou 'O Grito'?",
+    "options": {
+      "A": "Van Gogh",
+      "B": "Picasso",
+      "C": "Edvard Munch",
+      "D": "Monet",
+      "E": "Dalí"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Qual é a moeda oficial do Japão?",
+    "options": {
+      "A": "Yuan",
+      "B": "Won",
+      "C": "Euro",
+      "D": "Dólar",
+      "E": "Iene"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 10,
+    "question": "Em qual continente fica o Egito?",
+    "options": {
+      "A": "Europa",
+      "B": "Ásia",
+      "C": "Oceania",
+      "D": "África",
+      "E": "América"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 11,
+    "question": "Qual é a língua mais falada do mundo?",
+    "options": {
+      "A": "Inglês",
+      "B": "Espanhol",
+      "C": "Francês",
+      "D": "Alemão",
+      "E": "Mandarim"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 12,
+    "question": "Qual destas opções é um número primo?",
+    "options": {
+      "A": "9",
+      "B": "12",
+      "C": "13",
+      "D": "15",
+      "E": "21"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 13,
+    "question": "Que gás os seres humanos exalam ao respirar?",
+    "options": {
+      "A": "Oxigênio",
+      "B": "Hidrogênio",
+      "C": "Nitrogênio",
+      "D": "Dióxido de carbono",
+      "E": "Ozônio"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 14,
+    "question": "Qual é o maior mamífero do mundo?",
+    "options": {
+      "A": "Elefante africano",
+      "B": "Baleia-azul",
+      "C": "Orca",
+      "D": "Hipopótamo",
+      "E": "Girafa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 15,
+    "question": "Quem foi o primeiro homem a pisar na Lua?",
+    "options": {
+      "A": "Buzz Aldrin",
+      "B": "Yuri Gagarin",
+      "C": "Neil Armstrong",
+      "D": "Michael Collins",
+      "E": "Jim Lovell"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 16,
+    "question": "Qual desses números é divisível por 5?",
+    "options": {
+      "A": "17",
+      "B": "22",
+      "C": "35",
+      "D": "43",
+      "E": "57"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Qual é o nome do processo de transformação da lagarta em borboleta?",
+    "options": {
+      "A": "Fotossíntese",
+      "B": "Mimetismo",
+      "C": "Metamorfose",
+      "D": "Fermentação",
+      "E": "Polinização"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Qual é o maior oceano do planeta?",
+    "options": {
+      "A": "Atlântico",
+      "B": "Índico",
+      "C": "Ártico",
+      "D": "Pacífico",
+      "E": "Antártico"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 19,
+    "question": "Qual destes países é uma monarquia?",
+    "options": {
+      "A": "Brasil",
+      "B": "Espanha",
+      "C": "México",
+      "D": "Alemanha",
+      "E": "Argentina"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Em que ano ocorreu a Independência do Brasil?",
+    "options": {
+      "A": "1750",
+      "B": "1800",
+      "C": "1822",
+      "D": "1889",
+      "E": "1922"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 21,
+    "question": "Qual desses é um instrumento de corda?",
+    "options": {
+      "A": "Flauta",
+      "B": "Violino",
+      "C": "Trompete",
+      "D": "Bateria",
+      "E": "Saxofone"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 22,
+    "question": "Qual a raiz quadrada de 121?",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13",
+      "E": "14"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 23,
+    "question": "A que reino pertencem os fungos?",
+    "options": {
+      "A": "Animalia",
+      "B": "Plantae",
+      "C": "Monera",
+      "D": "Fungi",
+      "E": "Protista"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 24,
+    "question": "Quem escreveu 'A Odisséia'?",
+    "options": {
+      "A": "Homero",
+      "B": "Virgílio",
+      "C": "Sófocles",
+      "D": "Platão",
+      "E": "Heródoto"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 25,
+    "question": "Qual é o maior órgão do corpo humano?",
+    "options": {
+      "A": "Coração",
+      "B": "Fígado",
+      "C": "Pele",
+      "D": "Pulmão",
+      "E": "Rim"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 26,
+    "question": "Qual desses animais é um artrópode?",
+    "options": {
+      "A": "Caracol",
+      "B": "Aranha",
+      "C": "Sapo",
+      "D": "Tartaruga",
+      "E": "Cobra"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 27,
+    "question": "Qual é o símbolo químico do ferro?",
+    "options": {
+      "A": "Fe",
+      "B": "Ir",
+      "C": "Fr",
+      "D": "In",
+      "E": "F"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 28,
+    "question": "Qual destes é um navegador de internet?",
+    "options": {
+      "A": "Windows",
+      "B": "Chrome",
+      "C": "Android",
+      "D": "Linux",
+      "E": "Excel"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 29,
+    "question": "Qual é o processo de conversão de luz solar em energia pelas plantas?",
+    "options": {
+      "A": "Respiração",
+      "B": "Fermentação",
+      "C": "Fotossíntese",
+      "D": "Digestão",
+      "E": "Transpiração"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 30,
+    "question": "Qual é o maior deserto do mundo?",
+    "options": {
+      "A": "Saara",
+      "B": "Atacama",
+      "C": "Gobi",
+      "D": "Antártida",
+      "E": "Kalahari"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 31,
+    "question": "Qual destes números é par?",
+    "options": {
+      "A": "17",
+      "B": "29",
+      "C": "41",
+      "D": "52",
+      "E": "73"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 32,
+    "question": "Quem foi o autor de '1984'?",
+    "options": {
+      "A": "Aldous Huxley",
+      "B": "George Orwell",
+      "C": "Ray Bradbury",
+      "D": "Jules Verne",
+      "E": "H. G. Wells"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 33,
+    "question": "O Rio Nilo está localizado em qual continente?",
+    "options": {
+      "A": "Ásia",
+      "B": "Europa",
+      "C": "Oceania",
+      "D": "África",
+      "E": "América"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 34,
+    "question": "Qual é a capital da Argentina?",
+    "options": {
+      "A": "Lima",
+      "B": "Buenos Aires",
+      "C": "Santiago",
+      "D": "Montevidéu",
+      "E": "Assunção"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 35,
+    "question": "O que mede a escala Richter?",
+    "options": {
+      "A": "Velocidade dos ventos",
+      "B": "Umidade do ar",
+      "C": "Magnitude de terremotos",
+      "D": "Temperatura",
+      "E": "Pressão atmosférica"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 36,
+    "question": "Qual é o resultado de 8 × 7?",
+    "options": {
+      "A": "42",
+      "B": "48",
+      "C": "52",
+      "D": "54",
+      "E": "56"
+    },
+    "correctAnswer": "E"
+  },
+  {
+    "id": 37,
+    "question": "Qual órgão é responsável por bombear o sangue?",
+    "options": {
+      "A": "Rins",
+      "B": "Pulmões",
+      "C": "Fígado",
+      "D": "Coração",
+      "E": "Baço"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 38,
+    "question": "Qual estado brasileiro é conhecido como 'Terra da Garoa'?",
+    "options": {
+      "A": "Rio de Janeiro",
+      "B": "Bahia",
+      "C": "Minas Gerais",
+      "D": "São Paulo",
+      "E": "Paraná"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 39,
+    "question": "Qual é o metal líquido em temperatura ambiente?",
+    "options": {
+      "A": "Ferro",
+      "B": "Cobre",
+      "C": "Mercúrio",
+      "D": "Alumínio",
+      "E": "Sódio"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 40,
+    "question": "Qual destas figuras é um polígono?",
+    "options": {
+      "A": "Círculo",
+      "B": "Elipse",
+      "C": "Triângulo",
+      "D": "Cilindro",
+      "E": "Esfera"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 41,
+    "question": "Qual dessas invenções é atribuída aos irmãos Wright?",
+    "options": {
+      "A": "Telefone",
+      "B": "Avião",
+      "C": "Rádio",
+      "D": "Imprensa",
+      "E": "Motor elétrico"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 42,
+    "question": "O que é H2SO4?",
+    "options": {
+      "A": "Ácido sulfúrico",
+      "B": "Ácido nítrico",
+      "C": "Sulfato de sódio",
+      "D": "Ácido clorídrico",
+      "E": "Peróxido de hidrogênio"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 43,
+    "question": "Qual planeta é conhecido por seus anéis?",
+    "options": {
+      "A": "Marte",
+      "B": "Vênus",
+      "C": "Júpiter",
+      "D": "Saturno",
+      "E": "Urano"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 44,
+    "question": "Qual desses instrumentos pertence à família dos metais?",
+    "options": {
+      "A": "Violão",
+      "B": "Trompete",
+      "C": "Clarinete",
+      "D": "Flauta transversal",
+      "E": "Violino"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 45,
+    "question": "Em que estado brasileiro fica a cidade de Salvador?",
+    "options": {
+      "A": "Pernambuco",
+      "B": "Ceará",
+      "C": "Maranhão",
+      "D": "Bahia",
+      "E": "Sergipe"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 46,
+    "question": "Quantos centímetros há em um metro?",
+    "options": {
+      "A": "10",
+      "B": "50",
+      "C": "100",
+      "D": "500",
+      "E": "1000"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 47,
+    "question": "O que é um sinônimo?",
+    "options": {
+      "A": "Palavra com sentido contrário",
+      "B": "Palavra com sentido semelhante",
+      "C": "Palavra inventada",
+      "D": "Palavra estrangeira",
+      "E": "Palavra sem significado"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 48,
+    "question": "Qual é o maior país do mundo em área territorial?",
+    "options": {
+      "A": "China",
+      "B": "Estados Unidos",
+      "C": "Brasil",
+      "D": "Rússia",
+      "E": "Canadá"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 49,
+    "question": "Quantos segundos há em 1 minuto?",
+    "options": {
+      "A": "30",
+      "B": "45",
+      "C": "50",
+      "D": "60",
+      "E": "120"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 50,
+    "question": "O que os astrônomos usam para observar estrelas?",
+    "options": {
+      "A": "Microscópio",
+      "B": "Telescópio",
+      "C": "Sonar",
+      "D": "Radar",
+      "E": "GPS"
+    },
+    "correctAnswer": "B"
+  }
+]

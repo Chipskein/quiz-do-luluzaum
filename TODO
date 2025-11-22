@@ -1,0 +1,48 @@
+
+[X] SERVIDOR:
+    a. Implemente um Servidor de Rede que receba dois Clientes 1, 2 (jogadores 1
+    e 2) na porta 10000 (TCP ou UDP). Após, inicia-se o “jogo BATTLE QUIZ !” em
+    REDE”;
+
+    b. O Servidor será o administrador do jogo e só iniciará uma partida após dois
+    clientes (jogadores) enviarem via rede o seu nome (NickName) e receberem
+    as boas vindas do servidor “Cliente Aceito para o BATTLE QUIZ”.
+
+    c. Incia uma nova Partida:
+
+        i. O Servidor sorteará um pergunta do seu banco de perguntas pré-
+        definidas e enviará aos dois clientes, junto com um conjunto de
+        alternativas;
+
+        ii. Os Jogadores (Clientes) retornam com uma resposta, RESPOSTA-X
+        (ex.: RESPOSTA-A, RESPOSTA-C etc.)
+
+        iii. O primeiro jogador que enviar uma resposta correta ganha pontos.
+
+        iv. Se o primeiro jogador que respondeu errar, o adversário acertar
+        recebe o ponto.
+
+        v. Se ambos erram, ninguém pontua.
+
+        vi. O servidor atualiza e envia o placar para ambos os jogadores após
+        cada rodada.
+
+        d. As perguntas devem ser escolhidas aleatoriamente, sem repetição.
+
+
+    e. O jogo termina quando um jogador atingir 30 pontos.
+
+    f. O servidor anuncia o vencedor e pergunta se desejam nova partida.
+
+    g. Se ambos aceitarem, o servidor reinicia o jogo com novo sorteio inicial.
+
+    h. Caso contrário, o servidor encerra as conexões e volta ao estado de espera
+    de novos jogadores.
+
+[ ] Cliente
+    ▪ Enviam os NICKNAME dos jogadores ao servidor na porta especificada.
+    ▪ Aguardam pelas questões;
+    ▪ Enviam respostas fornecidas pelos jogadores rapidamente;
+    ▪ Recebem a pontuação alcançada e exibem o placar e resultado da rodada
+    enviados pelo servidor;
+    ▪ Aguardam nova rodada;
